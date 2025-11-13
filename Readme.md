@@ -12,13 +12,6 @@
 
 • **Experience spans:** B2C product development, AI/ML implementations, data pipelines, full-stack development, and leading cross-functional teams to drive revenue growth.
 
-### 🏆 Highlights
-
-- Built an AI system that **won the Smart India Hackathon** organized by Govt. of India, reducing accidents by 37%
-- Developed a portfolio recommendation engine for **Principal Global Services**, improving returns by 12%
-- Led end-to-end development of B2C products, driving **30% revenue growth** at MortgageKart
-- Enhanced chatbot serving **100K+ users** at Whitepages with 22% accuracy improvement
-
 ### 🌍 Beyond Code
 
 When I'm not building products or training models, you'll find me solo-travelling and exploring new places around the world! ✈️
