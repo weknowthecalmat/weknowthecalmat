@@ -1,6 +1,6 @@
 # Hello there, I'm Vinod Kamat 👋
 
-## Results-driven Product Engineer | AI & Data Science Enthusiast 🚀
+## Results-driven Product Engineer (3.5+ years of professional work experience) | AI & Data Science Enthusiast 🚀
 
 👋 Welcome to my GitHub! I'm a Product Engineer with 3+ years of experience leading and building products that drive real impact. Currently pursuing my Master's in Information Management (AI & Data Science) at the University of Washington.
 
