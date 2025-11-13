@@ -6,9 +6,9 @@
 
 ### 🔭 What I'm Working On
 
-• **Currently:** Product Engineering Intern at **Whitepages**, enhancing an AI-powered chatbot serving 100K+ users and improving response accuracy by 22% using AWS Bedrock and OpenSearch.
+• **Currently:** Product Engineering Intern at **Whitepages** (June 2025 - Present), enhancing an AI-powered chatbot serving 100K+ users and improving response accuracy by 22% using AWS Bedrock and OpenSearch.
 
-• **Previously:** Product Engineer at **MortgageKart**, where I boosted revenue by 30%, decreased product recommendation time by 60%, and improved user engagement by 27% through data-driven solutions and AI implementations.
+• **Previously:** Product Engineer at **MortgageKart** (June 2021 - July 2024), where I boosted revenue by 30%, decreased product recommendation time by 60%, and improved user engagement by 27% through data-driven solutions and AI implementations.
 
 • **Experience spans:** B2C product development, AI/ML implementations, data pipelines, full-stack development, and leading cross-functional teams to drive revenue growth.
 
