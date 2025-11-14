@@ -4,7 +4,9 @@
 
 👋 Welcome to my GitHub! I'm a Product Engineer with 3+ years of experience leading and building products that drive real impact. Currently pursuing my Master's in Information Management (AI & Data Science) at the University of Washington.
 
-### 🔭 What I'm Working On
+### 🔭 What I'm Working On:
+
+• Contributing to Open Source Community!
 
 • **Currently:** Product Intern at **Whitepages** (June 2025 - Present), enhancing an AI-powered chatbot serving thousands of users and improving response accuracy.
 
